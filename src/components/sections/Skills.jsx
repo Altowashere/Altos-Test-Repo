@@ -42,8 +42,8 @@ const Skills = () => {
   // Get proficiency percentage
   const getProficiencyLevel = (level) => {
     const levels = {
-      Expert: 90,
-      Advanced: 75,
+      Expert: 80,
+      Advanced: 70,
       Intermediate: 50,
       Beginner: 35,
     };

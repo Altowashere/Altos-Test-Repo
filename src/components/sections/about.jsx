@@ -47,8 +47,8 @@ const About = () => {
 
               <FadeIn delay={100}>
                 <h2 className="text-4xl lg:text-5xl font-normal text-white leading-tight">
-                  Crafting Code,{" "}
-                  <span className="text-[#C9A84C]">Building Ideas</span>
+                  How I{" "}
+                  <span className="text-[#C9A84C]">work and build</span>
                 </h2>
               </FadeIn>
 
@@ -105,10 +105,10 @@ const About = () => {
                     </div>
                     <div className="flex-1">
                       <h3 className="text-lg font-semibold text-white mb-2">
-                        Expertise
+                        Experience
                       </h3>
                       <p className="text-sm text-white/70 leading-relaxed">
-                        Self-taught developer with hands-on experience
+                        Self-taught, hands-on, and always learning as I go.
                       </p>
                     </div>
                   </div>
@@ -125,8 +125,8 @@ const About = () => {
                     Clean Code
                   </h3>
                   <p className="text-sm text-white/70 leading-relaxed">
-                    Readable, maintainable, and built to last — not just to
-                    ship.
+                    I try to keep things readable and easy to come back to
+                    later.
                   </p>
                 </div>
               </div>
@@ -141,8 +141,8 @@ const About = () => {
                     Performance
                   </h3>
                   <p className="text-sm text-white/70 leading-relaxed">
-                    Every project is optimized for speed, efficiency, and a
-                    smooth experience.
+                    I care about apps feeling fast, smooth, and not frustrating
+                    to use.
                   </p>
                 </div>
               </div>
@@ -167,7 +167,7 @@ const About = () => {
                       <div className="text-2xl font-bold text-[#C9A84C]/60 mb-1">
                         3+
                       </div>
-                      <div className="text-xs text-white/60">Repos Public</div>
+                      <div className="text-xs text-white/60">Public Repos</div>
                     </div>
                   </div>
                 </div>
@@ -181,10 +181,10 @@ const About = () => {
           <div className="flex flex-col items-center gap-8">
             <div className="text-center">
               <h3 className="text-2xl font-normal text-white mb-2">
-                Tech Stack & Expertise
+                Tech Stack
               </h3>
               <p className="text-sm text-white/60">
-                languages I work with to build amazing things
+                The tools and languages I actually spend time with.
               </p>
             </div>
 

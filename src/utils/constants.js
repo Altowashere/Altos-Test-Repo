@@ -3,12 +3,12 @@ export const Personal_info = {
   title: "Programmer",
   email: "@Altowashere on Discord.",
   location: "Virtually",
-  tagline: "Always aiming to better myself.",
+  tagline: "Still learning, still building.",
   resume: "public\temp resume file annoation reading.pdf",
   bio: [
-    "I'm a student and self-taught developer with a passion for building clean, purposeful software.",
-    "I started coding on my own, picking up languages and frameworks through projects and curiosity rather than a classroom.",
-    "I enjoy turning ideas into real things — whether that's a polished UI, a useful tool, or something I just wanted to exist.",
+    "I'm a student and a self-taught developer who likes building things that are actually useful.",
+    "Most of what I know came from trying things, messing up, and figuring it out through projects.",
+    "I like taking an idea and turning it into something real, whether that's a clean UI, a small tool, or just something I wanted to make.",
   ],
   avalibility: "Friday-Saturday\n" + "8am Cst - 5pm Cst",
 };
@@ -21,10 +21,10 @@ export const Social_links = {
 };
 
 export const STATS = [
-  { label: "Years Of Experience", value: "2+" },
+  { label: "Years Coding", value: "2+" },
   { label: "Programming Languages", value: "3+" },
   { label: "Projects Completed", value: "5+" },
-  { label: "Client satisfaction", value: "N/A" },
+  { label: "Public Projects", value: "5+" },
 ];
 
 export const About_STATS = [

@@ -30,15 +30,15 @@ const ServiceContainer = () => {
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-[#C9A84C]/10 border border-[#C9A84C]/30 rounded-full mb-6">
               <Wrench className="w-4 h-4 text-[#C9A84C]" />
               <span className="text-sm text-[#C9A84C] font-medium tracking-wider uppercase">
-                What I offEr
+                What I Do
               </span>
             </div>
             <h2 className="text-4xl lg:text-4xl font-normal text-white mb-4 max-w-2xl mx-auto">
-              Building solutions that are fast, clean, and built to last.
+              I build things that are clean, fast, and easy to use.
             </h2>
             <p className="text-lg text-white/60 max-w-xl mx-auto ">
-              Every project is built with performance, maintainability, and your
-              users in mind.
+              I try to make every project feel solid, clear, and easy for
+              people to use.
             </p>
           </div>
         </FadeIn>

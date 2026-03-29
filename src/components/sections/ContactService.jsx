@@ -9,7 +9,7 @@ const contacts = [
     id: 1,
     label: "GitHub",
     handle: "Altowashere",
-    description: "View my GitHub profile →",
+    description: "Check out my GitHub",
     icon: SiGithub,
     href: Social_links.github,
   },
@@ -17,7 +17,7 @@ const contacts = [
     id: 2,
     label: "Discord",
     handle: "Altowashere",
-    description: "DM me on Discord →",
+    description: "Message me on Discord",
     icon: SiDiscord,
     href: Social_links.discord,
   },
@@ -25,7 +25,7 @@ const contacts = [
     id: 3,
     label: "Twitter / X",
     handle: "N/A",
-    description: "Will be set up soon",
+    description: "Not set up yet",
     icon: SiX,
     href: Social_links.twitter,
   },
@@ -69,8 +69,8 @@ const ContactService = () => {
             </div>
             <h2 className="text-4xl font-normal text-white mb-4">Contact Me</h2>
             <p className="text-lg text-white/60 max-w-xl mx-auto">
-              These are the best ways to get in touch — click any card below to reach me
-              directly.
+              These are the easiest ways to reach me. Click whichever works
+              best for you.
             </p>
           </div>
         </FadeIn>

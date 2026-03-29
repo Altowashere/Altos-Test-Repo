@@ -6,41 +6,41 @@ export const services = [
     icon: "Code2",
     title: "Frontend Development",
     description:
-      "Building responsive, accessible, and performant user interfaces using React and modern CSS.",
+      "Building responsive interfaces with React and modern CSS that feel clean and easy to use.",
   },
   {
     id: 2,
     icon: "Server",
     title: "Backend Development",
     description:
-      "Designing and building scalable REST APIs and server-side logic with Node.js and Express.",
+      "Building APIs and backend logic with Node.js and Express that are straightforward and reliable.",
   },
   {
     id: 3,
     icon: "Database",
     title: "Database Design",
     description:
-      "Structuring efficient relational and non-relational databases tailored to your application's needs.",
+      "Setting up databases in a way that makes sense for the project and stays manageable.",
   },
   {
     id: 4,
     icon: "Smartphone",
     title: "Responsive Design",
     description:
-      "Ensuring every interface looks and works great across all screen sizes and devices.",
+      "Making sure a site still feels good to use on phones, tablets, and desktops.",
   },
   {
     id: 5,
     icon: "GitBranch",
     title: "Version Control",
     description:
-      "Managing codebases cleanly with Git workflows, branching strategies, and code reviews.",
+      "Keeping projects organized with Git, clean branches, and a workflow that is easy to follow.",
   },
   {
     id: 6,
     icon: "Zap",
     title: "Performance Optimization",
     description:
-      "Auditing and improving load times, rendering performance, and overall app efficiency.",
+      "Finding slow spots and cleaning them up so the app feels faster overall.",
   },
 ];

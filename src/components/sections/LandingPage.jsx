@@ -36,13 +36,12 @@ const LandingPage = () => {
 
             <FadeIn delay={200}>
               <p className="text-lg text-white/70 max-w-[550px] mb-8 ">
-                I'm a self-taught developer with a passion for crafting clean,
-                performant web experiences from the ground up. Whether it's
-                building smooth user interfaces, writing efficient backend
-                logic, or picking up a new language just to solve a problem —
-                I'm always deep in something. I work primarily with Java,
-                Python, and JavaScript, but I'm never afraid to expand my stack
-                when the project calls for it.
+                I'm a self-taught developer who likes figuring things out by
+                building. Most of my time goes into making clean interfaces,
+                solid backend logic, and learning whatever I need to get the
+                job done. I work mostly with Java, Python, and JavaScript, but
+                I'm always open to picking up something new when a project
+                needs it.
               </p>
             </FadeIn>
 
