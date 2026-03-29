@@ -8,7 +8,7 @@ import Skills from "./components/sections/Skills";
 import Projects from "./components/sections/Projects";
 import ServiceContainer from "./components/sections/ServiceContainer";
 import ContactService from "./components/sections/ContactService";
-import Footer from "./components/layout/Footer";
+import Footer from "./components/layout/footer";
 const App = () => {
   useEffect(() => {
     window.history.scrollRestoration = "manual";
